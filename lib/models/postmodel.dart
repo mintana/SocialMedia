@@ -16,4 +16,5 @@ class PostModel {
       body: json['body'],
     );
   }
+  toJson() {}
 }
